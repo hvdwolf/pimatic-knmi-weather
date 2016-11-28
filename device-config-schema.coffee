@@ -26,7 +26,7 @@ module.exports = {
             "clouds", "temperature", "windChill", "humidity",
             "windDirection", "windSpeed", "visibility", "pressure"
           ]
-      properties:
+          properties:
             label:
               description: "A custom label to use in the frontend."
               type: "string"
